@@ -1,0 +1,7 @@
+scenario,sampler_input_test_ids,added_rows,generated_rows_with_test_parent,exact_test_copies,adasyn_distinct_test_ids_in_difficulty_neighbors
+Correct ROS,0,186,0,0,
+Correct SMOTE,0,186,0,0,
+Correct ADASYN,0,187,0,0,0.0
+Buggy ROS,154,232,54,54,
+Buggy SMOTE,154,232,78,0,
+Buggy ADASYN,154,224,88,0,93.0

@@ -1,0 +1,8 @@
+Scenario,TN,FP,FN,TP
+Baseline,82,18,27,27
+Correct ROS,75,25,16,38
+Correct SMOTE,74,26,19,35
+Correct ADASYN,72,28,14,40
+Buggy ROS,70,30,13,41
+Buggy SMOTE,73,27,15,39
+Buggy ADASYN,68,32,11,43

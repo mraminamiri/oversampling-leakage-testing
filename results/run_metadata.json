@@ -1,0 +1,40 @@
+{
+  "completed_at_utc": "2026-10-18T17:15:16.295079+00:00",
+  "python": "3.12.14",
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.8.0",
+    "imbalanced-learn": "0.14.1",
+    "pytest": "9.0.2",
+    "matplotlib": "3.10.8"
+  },
+  "dataset_sha256": "b78029447fae2743b3218bb2b76ef0d04afe8d7e55ce2faf4d1ec82d8f8ae8ac",
+  "seed": 42,
+  "original_train_records": 614,
+  "original_test_records": 154,
+  "tests_skipped": false,
+  "steps": {
+    "pytest": {
+      "exit_code": 0,
+      "log": "pytest_local.log"
+    },
+    "detection_matrix": {
+      "exit_code": 0,
+      "log": "detection_matrix_local.log"
+    },
+    "evaluate_models": {
+      "exit_code": 0,
+      "log": "evaluate_models_local.log"
+    },
+    "plot_results": {
+      "exit_code": 0,
+      "log": "plot_results_local.log"
+    },
+    "static_analysis": {
+      "exit_code": 0,
+      "log": "static_analysis_local.log"
+    }
+  }
+}

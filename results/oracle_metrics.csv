@@ -1,0 +1,4 @@
+Oracle,TP,FN,FP,TN,Detection rate,False-positive rate
+Source isolation,3,0,0,3,1.0,0.0
+Exact duplicate,1,2,0,3,0.3333333333333333,0.0
+Generated provenance,3,0,0,3,1.0,0.0
